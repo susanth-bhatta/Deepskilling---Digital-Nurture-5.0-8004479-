@@ -1,0 +1,4 @@
+22:45:51.693 [main] DEBUG com.example.LoggingExample - Debug Message
+22:45:51.694 [main] INFO  com.example.LoggingExample - Information Message
+22:45:51.695 [main] WARN  com.example.LoggingExample - Warning Message
+22:45:51.695 [main] ERROR com.example.LoggingExample - Error Message
